@@ -1,46 +1,27 @@
-# Getting Started with Create React App
+## Objective
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Design and implement a front-end for options strategy risk and reward analysis using Vue.
 
-## Available Scripts
+## Brief
 
-In the project directory, you can run:
+Your challenge is to create a Vue component that can generate a risk & reward graph for options strategies. The component should accept an input of up to four options contracts and output the following:
 
-### `npm start`
+1. A risk & reward graph where X is the price of the underlying at the time of expiry and Y is the profit/loss at that price.
+2. Max profit, max loss, and all break even points.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Evaluation Criteria
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- Completeness of the logic
+- Usability of the graph
+- Aesthetics of the UI
+- Readability and code structure
 
-### `npm test`
+### CodeSubmit
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Please organize, design, test, and document your code as if it were
+going into production - then push your changes to the main branch.
 
-### `npm run build`
+Reply to the invitation e-mail with your github username to notify of completion.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Have fun coding! 🚀
+The Aries Financial Team
